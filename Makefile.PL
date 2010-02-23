@@ -17,7 +17,7 @@ requires 'Crypt::SSLeay';
 
 auto_install;
 
-install_script 'script';
+install_script 'SimplenoteSync.pl';
 
 WriteAll;
 
